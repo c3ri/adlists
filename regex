@@ -1,1 +1,1 @@
-^(((log|rtlog)[0-9]{0,2})-.*\.tiktokv\.com)$
+^(((log|rtlog|mssdk)[0-9]{0,2})-.*\.tiktokv\.com)$
